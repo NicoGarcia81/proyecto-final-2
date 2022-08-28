@@ -51,10 +51,12 @@ h1 {
     width: 50vw;
     margin: 0 auto;
     padding: 10px;
+   
 }
 
 .row {
     justify-content: space-around;
+    align-items: flex-start;
 }
 
 .footer {
